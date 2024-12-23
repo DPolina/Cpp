@@ -1,0 +1,4 @@
+Shape 0 0 0 0 0 none meow
+Button 0 0 0 0 0 meow none
+Ellipse 0 0 0 0 0 none meow
+HyperlinkLabel 0 0 0 0 0 none meow none

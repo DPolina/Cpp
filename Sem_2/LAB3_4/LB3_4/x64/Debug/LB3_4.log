@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB3_4\LB3_4\main.cpp(21,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB3_4\LB3_4\main.cpp(162,9): warning C4101: 'root': unreferenced local variable
+  LB3_4.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB3_4\x64\Debug\LB3_4.exe

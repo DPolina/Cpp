@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.3(5)_oop\No_2.3(5)_oop\main.cpp(20,12): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  No_2.3(5)_oop.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.3(5)_oop\x64\Debug\No_2.3(5)_oop.exe

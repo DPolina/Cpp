@@ -1,0 +1,80 @@
+template<class T>
+class List {
+
+	class Node {
+	public:
+		string value;     // atoi(string str. c_str()) -> from string to int
+		int hash;         // 
+		Node* p_next;
+		Node* p_prev;
+
+		Node(string name, int hash, Node* p_next = nullptr) {
+			this->value = name;
+			this->hash = hash;
+			this->p_next = p_next;
+			this->p_prev = p_prev;
+		}
+	};
+	Node<T>* head = nullptr;
+	Node<T>* tail = nullptr;
+	int size;
+
+public:
+
+	List() {
+		head = nullptr;
+		size = 0;
+	}
+
+	void push_back(string value, unsigned int hash) {
+		if (head == nullptr) {
+			head = new Node(value, hash);
+		}
+		else {
+			tail->next = new Node<T>(value, hash, tail);
+			tail = tail->next;
+		}
+		size++;
+	}
+
+	string Find(unsigned int hash) {
+		Node* it = head;
+		while (it->hash != hash) {
+			it = it->p_next;
+		}
+		return it->value;
+	}
+};
+
+template<class T>
+class HashTable {
+
+public:
+
+	HashTable(int size) {
+		arr = new list<T>[size];
+	}
+
+	void Insert(string address, string value) {
+		unsigned int hash = GetHash(address);
+		int id = hash % size;
+		arr[id].push_back(value, hash);
+	}
+
+	unsigned int GetHash(string address) {
+		unsigned int res = 0;
+		for (int i = 0, id = 99; i < address.size(); i++, id--) address += address.at(i) * id;
+		return res;
+	}
+
+	string GetInfo(string address) {
+		unsigned int hash = GetHash(address);
+		int id = hash % size;
+		return arr[id].Find(hash);
+	}
+
+private:
+
+	list<T>* arr;
+	int size;
+};

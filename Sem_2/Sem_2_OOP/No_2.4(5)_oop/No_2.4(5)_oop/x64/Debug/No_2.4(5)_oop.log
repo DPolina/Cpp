@@ -1,0 +1,8 @@
+﻿  complex.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.cpp(33,34): error C2660: 'Complex::pow': function does not take 2 arguments
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.h(16,7): message : see declaration of 'Complex::pow'
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.cpp(33,54): error C2660: 'Complex::pow': function does not take 2 arguments
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.h(16,7): message : see declaration of 'Complex::pow'
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.cpp(33,55): error C2660: 'Complex::sqrt': function does not take 1 arguments
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.h(15,7): message : see declaration of 'Complex::sqrt'
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.4(5)_oop\No_2.4(5)_oop\complex.cpp(34,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data

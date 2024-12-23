@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.3(5)_oop\No_3.3(5)_oop\main.cpp(63,19): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  No_3.3(5)_oop.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.3(5)_oop\x64\Debug\No_3.3(5)_oop.exe

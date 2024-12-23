@@ -1,0 +1,8 @@
+Michelangelo male 5 18 1 
+Leonardo_da_Vinci male 10 18 3 
+Henri_Matisse male 4.1 19 2 
+Frida_Kahlo female 6.3 17 1 
+Oscar_Claude_Monet male 3.3 19 2 
+Pablo_Ruiz_Picasso male 8.3 20 4 
+Salvador_Dali male 2.3 18 2 
+Vincent_Williem_van_Gogh male 1.3 20 4 

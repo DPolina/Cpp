@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB2_4\LB2_4\main.cpp(213,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB2_4\LB2_4\main.cpp(227,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB2_4\LB2_4\main.cpp(238,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB2_4\LB2_4\main.cpp(240,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LB2_4.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\LB2_4\x64\Debug\LB2_4.exe

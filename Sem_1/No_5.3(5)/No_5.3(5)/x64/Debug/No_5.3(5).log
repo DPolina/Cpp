@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_1\No_5.3(5)\No_5.3(5)\main.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sort_insert.cpp
+  Generating Code...
+  No_5.3(5).vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_1\No_5.3(5)\x64\Debug\No_5.3(5).exe

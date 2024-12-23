@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(16,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(42,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(107,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(111,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(112,45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(115,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(120,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(124,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(125,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(143,50): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(145,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\No_3.1(5)_oop\main.cpp(147,26): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  No_3.1(5)_oop.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_3.1(5)_oop\x64\Debug\No_3.1(5)_oop.exe

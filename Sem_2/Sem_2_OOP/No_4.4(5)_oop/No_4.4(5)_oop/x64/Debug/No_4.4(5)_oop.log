@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.4(5)_oop\No_4.4(5)_oop\TextBox.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.4(5)_oop\No_4.4(5)_oop\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  No_4.4(5)_oop.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.4(5)_oop\x64\Debug\No_4.4(5)_oop.exe

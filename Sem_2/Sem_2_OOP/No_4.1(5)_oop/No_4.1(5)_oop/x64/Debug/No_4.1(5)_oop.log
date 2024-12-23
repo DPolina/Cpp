@@ -1,0 +1,20 @@
+﻿  Button.h
+  Ellipse.h
+  HyperlinkLabel.h
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\HyperlinkLabel.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\HyperlinkLabel.h : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  main.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\TextBox.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Object.cpp
+  Object.h
+  Rectangle.h
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\Rectangle.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\Rectangle.h : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Shape.h
+  TextBox.h
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\TextBox.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\No_4.1(5)_oop\TextBox.h : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating Code...
+x64\Debug\Object.obj : warning LNK4042: object specified more than once; extras ignored
+  No_4.1(5)_oop.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_4.1(5)_oop\x64\Debug\No_4.1(5)_oop.exe

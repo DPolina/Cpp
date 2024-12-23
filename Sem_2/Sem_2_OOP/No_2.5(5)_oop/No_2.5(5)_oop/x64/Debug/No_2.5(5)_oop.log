@@ -1,0 +1,3 @@
+﻿  mian.cpp
+C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.5(5)_oop\No_2.5(5)_oop\mian.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  No_2.5(5)_oop.vcxproj -> C:\Users\polin\OneDrive\Documents\Visual Studio 2019\projects\C++\Sem_2\No_2.5(5)_oop\x64\Debug\No_2.5(5)_oop.exe
