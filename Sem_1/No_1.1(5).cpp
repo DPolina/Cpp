@@ -1,7 +1,7 @@
 #include <iostream>    // cin cout
 #include <math.h>      
 
-using namespace std;
+using namespace std; // :)
 
 int main() {
 
